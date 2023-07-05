@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React JS<br>🌱 I’m currently learning MySQL<br>💬 Ask me about Flutter<br>
+🔭 I’m currently working on Frontend<br>🌱 I’m currently learning MySQL<br>💬 Ask me about Flutter & ReactJS<br>
 
 
 ## 🌐 Socials:
